@@ -1,0 +1,40 @@
+{
+	"id": "7b29641f-6071-41b7-ab42-9d1e49fca03c",
+	"name": "pet",
+	"values": [
+		{
+			"key": "base_url",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "api_key",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "pet_id",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "order_id",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "username",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"color": 0,
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2026-06-19T13:37:27.737Z",
+	"_postman_exported_using": "Postman/12.10.4"
+}

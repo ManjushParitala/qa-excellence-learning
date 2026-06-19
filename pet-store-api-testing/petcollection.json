@@ -1,0 +1,14 @@
+{
+  "info": {
+    "_postman_id": "19a8e58b-45fd-405c-ae8c-7ef06c636acc",
+    "name": "New Collection",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "54305597"
+  },
+  "item": [
+    {
+      "name": "New Folder",
+      "item": []
+    }
+  ]
+}
