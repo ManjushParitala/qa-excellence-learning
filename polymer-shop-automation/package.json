@@ -1,0 +1,25 @@
+{
+  "name": "polymer-shop-automation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:sanity": "playwright test --grep @sanity",
+    "test:regression": "playwright test --grep @regression",
+    "test:e2e": "playwright test --grep @e2e",
+    "test:headed": "playwright test --headed",
+    "demo": "SLOWMO=1500 playwright test guided-demo --headed --workers=1",
+    "ui": "playwright test --ui",
+    "report": "playwright show-report reports/html-report",
+    "report:md": "node scripts/gen-execution-report.js"
+  },
+  "keywords": ["playwright", "pom", "polymer-shop", "qa-automation"],
+  "author": "",
+  "license": "ISC",
+  "description": "Playwright + Page Object Model test automation for shop.polymer-project.org",
+  "devDependencies": {
+    "@playwright/test": "^1.61.1",
+    "@types/node": "^26.0.1",
+    "typescript": "^6.0.3"
+  }
+}

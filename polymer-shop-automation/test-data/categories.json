@@ -1,0 +1,8 @@
+{
+  "categories": [
+    { "slug": "mens_outerwear", "displayName": "Men's Outerwear" },
+    { "slug": "ladies_outerwear", "displayName": "Ladies Outerwear" },
+    { "slug": "mens_tshirts", "displayName": "Men's T-Shirts" },
+    { "slug": "ladies_tshirts", "displayName": "Ladies T-Shirts" }
+  ]
+}

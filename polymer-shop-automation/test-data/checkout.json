@@ -1,0 +1,35 @@
+{
+  "valid": {
+    "accountEmail": "qa.tester@example.com",
+    "accountPhone": "5551234567",
+    "shipAddress": "123 Test Street",
+    "shipCity": "Testville",
+    "shipState": "CA",
+    "shipZip": "90210",
+    "ccName": "QA Tester",
+    "ccNumber": "4111111111111111",
+    "ccCVV": "123"
+  },
+  "internationalCustomer": {
+    "accountEmail": "intl.buyer@example.co.uk",
+    "accountPhone": "442012345678",
+    "shipAddress": "10 Downing Street",
+    "shipCity": "London",
+    "shipState": "Greater London",
+    "shipZip": "SW1A 2AA",
+    "ccName": "International Buyer",
+    "ccNumber": "5500005555555559",
+    "ccCVV": "456"
+  },
+  "invalidMissingRequired": {
+    "accountEmail": "",
+    "accountPhone": "",
+    "shipAddress": "",
+    "shipCity": "",
+    "shipState": "",
+    "shipZip": "",
+    "ccName": "",
+    "ccNumber": "",
+    "ccCVV": ""
+  }
+}

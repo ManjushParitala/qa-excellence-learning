@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "category": "mens_outerwear",
+      "name": "Men+s+Tech+Shell+Full-Zip",
+      "displayName": "Men's Tech Shell Full-Zip"
+    },
+    {
+      "category": "ladies_outerwear",
+      "name": "Ladies+Modern+Stretch+Full+Zip",
+      "displayName": "Ladies Modern Stretch Full Zip"
+    },
+    {
+      "category": "mens_tshirts",
+      "name": "YouTube+Organic+Cotton+T-Shirt+-+Grey",
+      "displayName": "YouTube Organic Cotton T-Shirt - Grey"
+    },
+    {
+      "category": "ladies_tshirts",
+      "name": "Ladies+Chrome+T-Shirt",
+      "displayName": "Ladies Chrome T-Shirt"
+    }
+  ]
+}
